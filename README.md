@@ -6,6 +6,6 @@ This repository is a collection of projects showcasing my data analysis journey,
 
 Connect with Me: 
 I love to make meaningful professional connections and would love to hear your thoughts or explore opportunities to collaborate on exciting projects!
-Feel free to connect with me on [LinkedIn]([url](https://www.linkedin.com/in/purva-khandekar/) or explore more about my work here. 
+Feel free to connect with me on LinkedIn([url](https://www.linkedin.com/in/purva-khandekar/)) or explore more about my work here. 
 
 Let’s turn some data into action, yo! ;)
