@@ -1,4 +1,4 @@
-Employee-Attrition-Analysis
+Employee Attrition Analysis: Predictive Modeling and Retention Strategies
 
 In today's economy, employee attrition is costly and disruptive. This project explores key factors influencing employee turnover using data science techniques, with the goal of helping organizations identify at-risk employees and develop targeted retention strategies.
 
