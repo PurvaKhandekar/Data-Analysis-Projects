@@ -2,9 +2,11 @@ Employee Attrition Analysis: Predictive Modeling and Retention Strategies
 
 In today's economy, employee attrition is costly and disruptive. This project explores key factors influencing employee turnover using data science techniques, with the goal of helping organizations identify at-risk employees and develop targeted retention strategies.
 
+
 Dataset: 
 The dataset has 1,470 employees.
 [https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset](url)
+
 
 Methods:
 
@@ -14,10 +16,12 @@ Decision Trees: Offered interpretable insights with key decision paths around Ov
 Clustering: Grouped employees into meaningful segments to guide personalized retention strategies.
 
 
+
 Key Findings:
 
 OverTime, low MonthlyIncome, and younger age were strongly linked to higher attrition.
 Cluster analysis revealed three workforce segments with unique retention needs.
+
 
 
 Model Performance:
